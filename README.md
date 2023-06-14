@@ -13,3 +13,4 @@ To create the json server:
 1. npm init (package-json)
 2. npm i (package-lock.json)
 3. npm i json-server --registry https://registry.npmjs.org
+4. npm i -g vercel (if the API is going to be deployed on Vercel)
